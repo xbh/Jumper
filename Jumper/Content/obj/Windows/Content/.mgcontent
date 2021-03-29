@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Fonts/HilightFont.spritefont</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Fonts/RegularFont.spritefont</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/About.png</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/background.jpg</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/explosion.png</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/help.png</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/jumper.png</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/jumperRe.png</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Image/tile.jpg</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Sound/bgm.mp3</File>
+    <File>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Sound/jump.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

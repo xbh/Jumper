@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Jumper</id>
+    <version>1.0.0</version>
+    <authors>Jumper</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.0.1641" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.WindowsDX" version="3.8.0.1641" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Fonts/HilightFont.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Fonts/RegularFont.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/About.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/background.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/explosion.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/help.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/jumper.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/jumperRe.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/kisspng-cyanide-happiness-character-drawing-happiness-5ac53193b50710.3234937015228727237415.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/pngtree-light-vertical-stripes-texture-background-image-image_265108.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Image/tile.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Levels/level1.level" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Levels/level1.txt" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Levels/level2.level" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Levels/level3.level" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Sound/bgm.wma" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Sound/bgm.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Sound/jump.wma" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/Sound/jump.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\bin\Debug\netcoreapp3.1\Jumper.runtimeconfig.json" target="lib\netcoreapp3.1\Jumper.runtimeconfig.json" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\bin\Debug\netcoreapp3.1\Jumper.dll" target="lib\netcoreapp3.1\Jumper.dll" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Fonts\HilightFont.xnb" target="content\Content\bin\Windows\Content\Fonts\HilightFont.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Fonts\HilightFont.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Fonts\HilightFont.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Fonts\RegularFont.xnb" target="content\Content\bin\Windows\Content\Fonts\RegularFont.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Fonts\RegularFont.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Fonts\RegularFont.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\About.xnb" target="content\Content\bin\Windows\Content\Image\About.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\About.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\About.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\background.xnb" target="content\Content\bin\Windows\Content\Image\background.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\background.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\background.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\explosion.xnb" target="content\Content\bin\Windows\Content\Image\explosion.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\explosion.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\explosion.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\help.xnb" target="content\Content\bin\Windows\Content\Image\help.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\help.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\help.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\jumper.xnb" target="content\Content\bin\Windows\Content\Image\jumper.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\jumper.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\jumper.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\jumperRe.xnb" target="content\Content\bin\Windows\Content\Image\jumperRe.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\jumperRe.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\jumperRe.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\kisspng-cyanide-happiness-character-drawing-happiness-5ac53193b50710.3234937015228727237415.xnb" target="content\Content\bin\Windows\Content\Image\kisspng-cyanide-happiness-character-drawing-happiness-5ac53193b50710.3234937015228727237415.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\kisspng-cyanide-happiness-character-drawing-happiness-5ac53193b50710.3234937015228727237415.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\kisspng-cyanide-happiness-character-drawing-happiness-5ac53193b50710.3234937015228727237415.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\pngtree-light-vertical-stripes-texture-background-image-image_265108.xnb" target="content\Content\bin\Windows\Content\Image\pngtree-light-vertical-stripes-texture-background-image-image_265108.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\pngtree-light-vertical-stripes-texture-background-image-image_265108.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\pngtree-light-vertical-stripes-texture-background-image-image_265108.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\tile.xnb" target="content\Content\bin\Windows\Content\Image\tile.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Image\tile.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Image\tile.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level1.level" target="content\Content\bin\Windows\Content\Levels\level1.level" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level1.level" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Levels\level1.level" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level1.txt" target="content\Content\bin\Windows\Content\Levels\level1.txt" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level1.txt" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Levels\level1.txt" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level2.level" target="content\Content\bin\Windows\Content\Levels\level2.level" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level2.level" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Levels\level2.level" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level3.level" target="content\Content\bin\Windows\Content\Levels\level3.level" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Levels\level3.level" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Levels\level3.level" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\bgm.wma" target="content\Content\bin\Windows\Content\Sound\bgm.wma" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\bgm.wma" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Sound\bgm.wma" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\bgm.xnb" target="content\Content\bin\Windows\Content\Sound\bgm.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\bgm.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Sound\bgm.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\jump.wma" target="content\Content\bin\Windows\Content\Sound\jump.wma" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\jump.wma" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Sound\jump.wma" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\jump.xnb" target="content\Content\bin\Windows\Content\Sound\jump.xnb" />
+    <file src="E:\Conestoga\PROG2370\Jumper\Jumper\Jumper\Content\bin\Windows\Content\Sound\jump.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\Sound\jump.xnb" />
+  </files>
+</package>

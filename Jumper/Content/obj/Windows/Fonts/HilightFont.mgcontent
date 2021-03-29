@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Fonts/HilightFont.spritefont</SourceFile>
+  <SourceTime>2020-12-13T15:48:29.3956171+08:00</SourceTime>
+  <DestFile>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/bin/Windows/Fonts/HilightFont.xnb</DestFile>
+  <DestTime>2020-12-13T18:29:19.3396996+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T04:17:54+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-11T04:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

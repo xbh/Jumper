@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/Sound/bgm.mp3</SourceFile>
+  <SourceTime>2020-12-14T00:25:12.1599155+08:00</SourceTime>
+  <DestFile>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/bin/Windows/Content/Sound/bgm.xnb</DestFile>
+  <DestTime>2020-12-14T00:27:21.731789+08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-11T04:17:54+08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-11T04:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/Conestoga/PROG2370/Jumper/Jumper/Jumper/Content/bin/Windows/Content/Sound/bgm.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
